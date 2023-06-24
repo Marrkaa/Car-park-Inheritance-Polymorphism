@@ -1,0 +1,5 @@
+﻿Rokiškis
+Kauno g. 17
+b; ABC123; Audi; Yaris; 2002-10; 2022-10-01; dyzelinis; 50;
+c; VAS531; Audi; F30A; 2012-02; 2023-04-05; elektra; 4;
+l; HJK978; Mercedes; C220; 2020-11; 2025-06-02; hibridas; 900;

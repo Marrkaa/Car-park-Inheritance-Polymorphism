@@ -1,0 +1,5 @@
+﻿Kaunas
+Pašilės g. 14
+c; AFA456; Audi; Passat; 2004-10; 2020-08-14; elektra; 4;
+l; CDA213; Audi; A6; 2016-04; 2026-07-12; elektra; 850;
+b; AGH698; Mercedes; E330; 2022-11; 2021-12-26; hibridas; 30;
